@@ -10,4 +10,4 @@ creating a new branch is quick And sample
 =======
 creating a new branch is quick
 add merge.
->>>>>>> dev
+new repos
